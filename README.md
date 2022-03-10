@@ -12,7 +12,7 @@
 class Student:
     def __init__(self):
         self.name = "yangco-le"
-        self.role = "Undergraduate of SJTU"
+        self.role = "Undergraduate @ Thinklab, SJTU"
         self.location = "Shanghai, China"
         self.knowledge_base = [
             "Machine Learning",

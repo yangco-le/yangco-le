@@ -3,49 +3,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yangco-le.yangcole)
 ![GitHub followers](https://img.shields.io/github/followers/yangco-le?label=Follow&style=social)
 
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class Student:
-    def __init__(self):
-        self.name = "yangco-le"
-        self.role = "Undergraduate @ Thinklab, SJTU"
-        self.location = "Shanghai, China"
-        self.knowledge_base = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Frontend Enginnering",
-            "Backend Engineering"
-        ]
-        self.code = ["Python", "C++", "Javascript", "php"]
-        technologies = {
-            "frontend": {
-                "js": ["vue"],
-                "css": ["elementui", "bootstrap"]
-            },
-            "backend": {
-                "python": ["django"],
-                "js": ["node"]
-            },
-            "deep learning": ["torch", "mxnet", "keras", "tensorflow"],
-            "databases": ["mysql", "sqlite"]
-        }
-
-    def say_hi(self):
-        print(
-            "Hi there, thanks for dropping by! This is {name}, I live in {location}, now an {role}. 
-             I have wide interests, but most of them are {knowledge_base}."
-        )
-
-
-me = Student()
-me.say_hi()
-
-```
+- 👨🏻‍💻 I'm now a undergraduate student at [Thinklab](https://thinklab.sjtu.edu.cn), Shanghai Jiao Tong University.
+- 🤔 My current research interests lie in deep generative models and graph combinatorial optimization problems.
+- ✉️ Contact me via yanglily@sjtu.edu.cn.
 
 
 ## &#x1f4c8; GitHub Stats

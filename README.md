@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yangco-le.yangcole)
 ![GitHub followers](https://img.shields.io/github/followers/yangco-le?label=Follow&style=social)
 
-- 👨🏻‍💻 I'm now a undergraduate student at [Thinklab](https://thinklab.sjtu.edu.cn), Shanghai Jiao Tong University.
+- 👨🏻‍💻 I'm now a master student at [Thinklab](https://thinklab.sjtu.edu.cn), Shanghai Jiao Tong University.
 - 🤔 My current research interests lie in deep generative models and graph combinatorial optimization problems.
 - ✉️ Contact me via yanglily@sjtu.edu.cn.
 - 💁🏻‍♂️ Know me more from [https://yangco-le.github.io](https://yangco-le.github.io/).

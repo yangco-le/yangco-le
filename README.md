@@ -6,6 +6,8 @@
 - 👨🏻‍💻 I'm now a master student at [Thinklab](https://thinklab.sjtu.edu.cn), Shanghai Jiao Tong University.
 - 🤔 My current research interests lie in deep generative models and graph combinatorial optimization problems.
 - ✉️ Contact me via yanglily@sjtu.edu.cn.
+- 💁🏻‍♂️ Know me more from [https://yangco-le.github.io](https://yangco-le.github.io/).
+
 
 
 ## &#x1f4c8; GitHub Stats
